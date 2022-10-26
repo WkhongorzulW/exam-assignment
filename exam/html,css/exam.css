@@ -1,0 +1,195 @@
+body{
+    margin: 0;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 0.28px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1px;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.head-container{
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+    background-color: #000000CC;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+.head-container a{
+    margin: 17px 0;
+}
+.text{
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 0.11px;
+    margin-bottom: 14px;
+}
+.ip-14{
+    background-color: #FBFBFD;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 12px;
+}
+.ip-14-image{
+    height: 500px;
+    width: 665px;
+    text-align: center;
+}
+.link{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.link a{
+    color: #0066CC;
+}
+.ip-14-pro{
+    background-color: #000000;
+    margin: 0 auto;
+    text-align: center;
+    color: #F5F5F7;
+}
+.ip-14-pro-image{
+    width: 870px;
+    height: 695px;
+    text-align: center;
+}
+.watch-ultra{
+    background-color: #FBFBFD;
+    text-align: center;
+    color: #000000;
+    margin: 10px auto;
+}
+.watch-ultra-head-image{
+    height: 70px;
+}
+.watch-ultra-image{
+    width: 1300px;
+    height: 460px;
+    text-align: center;
+}
+.two-side-black{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    width: 1512px;
+    margin: 10px auto;
+}
+.left{
+    position: relative;
+}
+.watch-s8-image{
+    height: 580px;
+    width: 750px;
+}
+.left .text{
+    position: absolute;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.34px;
+    top: 120px;
+    left: 270px;
+    color: #F5F5F7;
+}
+.left .link{
+    position: absolute;
+    top: 150px;
+    left: 290px;
+}
+.watch-s8-head-image{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.right{
+    position: relative;
+}
+.airpods-pro-head{
+    position: absolute;
+    margin: 0;
+    top: 50px;
+    left: 270px;
+    color: #F5F5F7;
+}
+.right .text{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.34px;
+    color: #F5F5F7;
+}
+.right .link{
+    position: absolute;
+    top: 150px;
+    left: 290px;
+}
+.airpods-pro-image{
+    height: 580px;
+    width: 750px;
+}
+.two-side-white{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    width: 1512px;
+    margin: 10px auto;
+}
+.two-side-white .text{
+    color: #1D1D1F;
+}
+.watch-se-head-image{
+    position: absolute;
+    width: 430px;
+    height: 50px;
+    top: 60px;
+    left: 155px;
+}
+.fitness-head-image{
+    position: absolute;
+    width: 430px;
+    height: 32px;
+    top: 60px;
+    left: 155px;
+}
+.watch-se-image{
+    height: 580px;
+    width: 750px;
+}
+.fitness-image{
+    height: 580px;
+    width: 750px;
+}
+.two-side-white .right .text{
+    top: 100px;
+    text-align: center;
+}
+.two-side-white .right .link{
+    top: 160px;
+    left: 275px;
+}
+.bottom{
+    background-color: #F5F5F7;
+    color: #6E6E73;
+}
+.bottom p{
+    margin-left: 265px;
+}
